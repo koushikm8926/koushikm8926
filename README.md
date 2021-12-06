@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from west Bengal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikm8926&label=Profile%20views&color=0e75b6&style=flat" alt="koushikm8926" /> </p>
-<img align="right' alt="coding" width="400" src="https://dribbble.com/shots/14146503-Coading/attachments/5771461?mode=media">
+<img align="right' alt="coding" width="400" src="https://cdn.dribbble.com/users/3386630/screenshots/14146503/media/205dcd5015b68fda253cd39bf59af486.png">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/koushik47515934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koushik47515934" height="30" width="40" /></a>
