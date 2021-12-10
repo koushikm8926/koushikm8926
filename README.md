@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm KOUSHIK MONDAL</h1>
-<h3 align="center">A passionate frontend developer from west Bengal</h3>
+<h3 align="center">
+A boy who is loves to do code.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikm8926&label=Profile%20views&color=0e75b6&style=flat" alt="koushikm8926" /> </p>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/3386630/screenshots/14146503/media/205dcd5015b68fda253cd39bf59af486.png">
