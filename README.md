@@ -44,7 +44,15 @@
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=koushikm8926&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=koushikm8926&layout=compact&langs_count=8&theme=algolia"/>
+
+  
+  
+  <a href="https://github.com/koushikm8926">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koushikm8926&theme=radical&hide_border=true)](https://github.com/koushikm8926" alt="Koushik's GitHub Stats Graph"/>
 </a>
+<br><br>
+  
+  </a>
 </p>
 
 ## Github Contribution Streak 🔥 
