@@ -17,13 +17,21 @@
 - 💬 Ask me about **React, React native, Angular,**
 
 - 📫 How to reach me **koushik.12019976@lpu.in**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/koushik47515934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koushik47515934" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/koushik-mondal-091102207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koushik-mondal-091102207" height="30" width="40" /></a>
-<a href="https://fb.com/kõüßhïk mõñdàl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kõüßhïk mõñdàl" height="30" width="40" /></a>
-<a href="https://instagram.com/___koushik__2003__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___koushik__2003__" height="30" width="40" /></a>
-</p>
+
+
+
+## Connect with me ☕ :
+
+<br>
+
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/___koushik__2003__/) 
+[![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/profile.php?id=100014698261078) 
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/koushik-mondal-091102207/)
+[![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/koushik47515934)
+[![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@7384810162")](tel:7384810162) 
+[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@koushik.12019976@gmail.com")](koushik.12019976@gmail.com)
+
+<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,7 +48,7 @@
 
 ## Github Contribution Streak 🔥 
 <br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmay29hub&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=koushikm8926&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 <hr><br>
 <br>
