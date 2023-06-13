@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Koushik Mondal </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I am Koushik Mondal </h1>
 
 <h3 align="center">A passionate mobile application developer from India</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+its+koushik;I+am+a+Mobile+Application+Developer" alt="Typing SVG" /></a>
@@ -55,6 +55,15 @@
   </a>
 </p>
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 ## Github Contribution Streak 🔥 
 <br>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=koushikm8926&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
