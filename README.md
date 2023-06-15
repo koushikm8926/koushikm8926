@@ -59,11 +59,11 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31he3nv6n2khublttmbnka6ris24)
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=koushikm8926&repo=koushikm8926&countColorcountColor&countColor=%237B1E7B"/>
 ## Github Contribution Streak 🔥 
 <br>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=koushikm8926&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
