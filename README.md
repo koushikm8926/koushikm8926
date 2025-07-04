@@ -1,7 +1,11 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I am Koushik Mondal </h1>
 
-<h3 align="center">A passionate mobile application developer from India</h3>
+<h3 align="center">
+  A passionate mobile application developer from India, 
+  Studying Masters in Software Engineering at 
+  <a href="https://www.upm.es/" target="_blank">upm</a>
+</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+its+koushik;I+am+a+Mobile+Application+Developer" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikm8926&label=Profile%20views&color=0e75b6&style=flat" alt="koushikm8926" /> </p>
