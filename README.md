@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **React, React native, Angular,**
 
-- 📫 How to reach me **koushik.12019976@lpu.in**
+- 📫 How to reach me **koushik.12019976@gmail.com**
 
 
 
