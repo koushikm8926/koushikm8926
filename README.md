@@ -4,7 +4,8 @@
 <h3 align="center">
   A passionate mobile application developer from India, 
   Studying Masters in Software Engineering at 
-  <a href="https://www.upm.es/" target="_blank">upm</a>
+  <a href="https://www.upm.es/" target="_blank">Universidad Politécnica de Madrid
+</a>
 </h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+its+koushik;I+am+a+Mobile+Application+Developer" alt="Typing SVG" /></a>
 
